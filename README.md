@@ -1,8 +1,7 @@
-# Welcome to your Lovable project
+# pollen's Profiling: Automated Classification of Pollen Grains
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/8fa5043e-8f3c-4b7f-b1e6-e55423a56765
 
 ## How can I edit this code?
 
