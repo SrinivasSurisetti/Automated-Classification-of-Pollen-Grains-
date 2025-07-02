@@ -16,13 +16,11 @@ If you want to work locally using your own IDE, you can clone this repo and push
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 ## Screenshot & Video
-- ![HomePage](https://github.com/user-attachments/assets/646f489f-21cb-4766-b801)
+- ![Screenshot 2025-07-02 181654](https://github.com/user-attachments/assets/8e2cf3af-78b0-4b33-a326-780b2d98f8dd)
+
 - ![Image Uploading](https://github.com/user-attachments/assets/6d39c4ac-362f-4c87-bc6a-81d7288e5e1b)
 2f79b2a96e5c)
 - ![Video](https://github.com/user-attachments/assets/1c9049fd-3f4f-41d6-8656-c135d72e3413)
-
-
-- [Video]()
 
 ----
 Follow these steps:
